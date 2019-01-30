@@ -1,10 +1,12 @@
 class Dog
-  fido = dog.new
-  fido #=>
 
-  snoopy = dog.new
-  snoopy #=>
-
-  lassie = dog.new
-  lassie #=>
 end
+
+fido = Dog.new
+fido #=>
+
+snoopy = Dog.new
+snoopy #=>
+
+lassie = Dog.new
+lassie #=>
